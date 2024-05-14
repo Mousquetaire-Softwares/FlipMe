@@ -36,13 +36,9 @@ github_username                           : stvim
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : iPad or iPhone
-    description                           : Designed for both iPad & iPhone, in portrait or landscape orientation
-    fontawesome_icon_name                 : mobile
-    
   - title                                 : For everyone
-    description                           : Suitable for young kids and adults alike
-    fontawesome_icon_name                 : magic
+    description                           : Suitable for young kids and adults alike - you can even play together !
+    fontawesome_icon_name                 : link
 
   - title                                 : Progressive
     description                           : Offers numerous levels ranging from very easy to very hard
@@ -52,6 +48,10 @@ features                                  :
     description                           : Rediscover a classic game with a unique twist, featuring playful gestures and multiple ways to play
     fontawesome_icon_name                 : sync
 
+  - title                                 : iPad or iPhone
+    description                           : Designed for both iPad & iPhone, in portrait or landscape orientation
+    fontawesome_icon_name                 : mobile
+    
   - title                                 : Engaging
     description                           : Unlock a plethora of mystery images and levels by playing more
     fontawesome_icon_name                 : adjust
@@ -66,7 +66,7 @@ features                                  :
 #
 #  - title                                 : Social Links
 #    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-#    fontawesome_icon_name                 : link
+#    fontawesome_icon_name                 : magic
 #
 #  - title                                 : FontAwesome Support
 #    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
