@@ -36,26 +36,26 @@ github_username                           : stvim
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : For everyone
-    description                           : Suitable for young kids and adults alike, you can even play together!
-    fontawesome_icon_name                 : link
+  - title                                 : Original
+    description                           : Rediscover a classic game with a unique twist, featuring playful gestures and multiple ways to play
+    fontawesome_icon_name                 : sync
 
   - title                                 : Progressive
     description                           : Offers numerous levels ranging from very easy to very hard
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Original
-    description                           : Rediscover a classic game with a unique twist, featuring playful gestures and multiple ways to play
-    fontawesome_icon_name                 : sync
+  - title                                 : For everyone
+    description                           : Suitable for young kids and adults alike, you can even play together!
+    fontawesome_icon_name                 : link
 
-  - title                                 : iPad or iPhone
-    description                           : Designed for both iPad & iPhone, in portrait or landscape orientation
-    fontawesome_icon_name                 : mobile
-    
   - title                                 : Engaging
     description                           : Unlock a plethora of mystery images and levels by playing more
     fontawesome_icon_name                 : adjust
   
+  - title                                 : iPad or iPhone
+    description                           : Designed for both iPad & iPhone, in portrait or landscape orientation
+    fontawesome_icon_name                 : mobile
+    
   - title                                 : Stimulate Your Brain
     description                           : Can you beat your previous best score?
     fontawesome_icon_name                 : star
