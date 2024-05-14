@@ -12,7 +12,7 @@ include_in_header: true
 
 ### `Initial Release`
 # **Version 1.0**
-First public release with single player mode only, 33 levels to unlock and a total of 56 card images.
+First public release with single player mode only, 33 levels to unlock, 10 different game modes, and a total of 56 card images.
 
 <br>
 
