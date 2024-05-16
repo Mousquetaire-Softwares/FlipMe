@@ -1,5 +1,5 @@
 #page title
-page_title                                : MemoryMe iOS Game                         # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Flip Me iOS Game                         # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 6499492638                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -10,8 +10,8 @@ appstore_link                             :                                     
   #presskit_download_link                    : https://emilbaehr.com                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon                                  : assets/memoryme-logo-2.png             # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : MemoryMe!                                 # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_icon                                  : assets/app-logo-2.png             # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_name                                  : Flip Me: Concentration Game                                # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : A fun, simple, and engaging concentration game featuring delightful kids' drawings and adorable animations
 
@@ -22,7 +22,7 @@ enable_smart_app_banner                   : true                                
 # Information About Yourself
 your_name                                 : Steven Morin                              
 your_link                                 : https://www.linkedin.com/in/steven-morin-fr
-your_city                                 : France, Yvelines. © 2024 All Right Reserved.
+your_city                                 : France. © 2024 All Right Reserved.
 email_address                             : mousquetaire.softwares@gmail.com
   #facebook_username                         :                                           
   #instagram_username                        : ebaehr

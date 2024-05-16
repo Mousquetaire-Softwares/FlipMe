@@ -11,7 +11,7 @@ May 14 2024
 
 <br>
 
-**Steven MORIN built the MemoryMe! game as a Free game under the label Mousquetaire Softwares. It is provided by Steven MORIN at no cost and is intended for use as is.**
+**Steven MORIN built the Flip Me game as a Free game under the label Mousquetaire Softwares. It is provided by Steven MORIN at no cost and is intended for use as is.**
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
@@ -20,7 +20,7 @@ If you choose to use our Service, then you agree to the collection and use of in
 
 ## We Collect No Information Using Your Applications
 
-We do not collect, use, save, or have access to any of your personal data recorded in MemoryMe! Individual settings relating to MemoryMe, levels progression, unlocked images, and best scores, are all not personal and are all stored only on your device. We don't process that information at all and have no access to it.
+We do not collect, use, save, or have access to any of your personal data recorded in the app individual settings relating to app, levels progression, unlocked images, and best scores, are all not personal and are all stored only on your device. We don't process that information at all and have no access to it.
 
 ## Types of Data Stored And Used 
 
