@@ -11,7 +11,7 @@ appstore_link                             :                                     
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/app-logo-2.png             # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : Flip Me                                # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : Flip Me - Concentration Game                                # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : A fun, simple, and engaging concentration game featuring delightful kids' drawings and adorable animations
 
